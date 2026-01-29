@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap');
+
+* {
+    font-family: "Google Sans", sans-serif;
+}
+
+a {
+    display: block;
+    text-align: right;
+}
+
+body {
+    display: flex;
+    padding: 5px;
+}
+
+div {
+    box-sizing: border-box;
+    border: 5px solid black;
+    margin: 10px auto;
+    padding: 10px;
+}
